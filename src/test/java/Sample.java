@@ -9,4 +9,13 @@ public class Sample {
 	private void git3() {
 		System.out.println("git trial3");
 	}
+	private void git7() {
+		System.out.println("git trial7");
+	}
+	private void git8() {
+		System.out.println("git trial8");
+	}
+	private void git9() {
+		System.out.println("git trial9");
+	}
 }
