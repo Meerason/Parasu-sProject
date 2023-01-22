@@ -1,11 +1,12 @@
 
 public class Sample {
-	private void git() {
-		System.out.println("git trial");
-
+	private void git1() {
+		System.out.println("git trial1");
 	}
-	public static void main(String[] args) {
-		Sample s = new Sample();
-		s.git();
+	private void git2() {
+		System.out.println("git trial2");
+	}
+	private void git3() {
+		System.out.println("git trial3");
 	}
 }
